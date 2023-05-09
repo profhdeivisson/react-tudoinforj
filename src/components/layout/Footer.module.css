@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    background-color: #2a2a2a;
+    padding: 3em;
+    color: white;
+    font-weight: bold;
+}

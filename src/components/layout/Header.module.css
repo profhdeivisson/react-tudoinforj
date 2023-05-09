@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    padding: 1em 3em;
+    background-color: rgb(119, 219, 255);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.main ul li{
+    margin-right: 1em;
+}
+
+.main ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.main ul li a:hover{
+    text-decoration: underline;
+    color: rgb(0, 0, 130);
+}
