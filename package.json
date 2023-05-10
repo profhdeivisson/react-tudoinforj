@@ -1,7 +1,7 @@
 {
   "name": "site-test",
   "version": "0.1.0",
-  "homepage": "https://github.com/profhdeivisson/react-tudoinforj.git",
+  "homepage": "/react-tudoinforj",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
